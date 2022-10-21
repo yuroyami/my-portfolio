@@ -21,4 +21,4 @@ App Name & Icon | Characteristics | Screenshots | APK/Links
 
 
 ## Usage of this portfolio as a template: 
-Please feel free to use this portfolio as a template as long as you mention the original (this one).
+Feel free to use this portfolio as a template as long as you mention the original (this one).
