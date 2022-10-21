@@ -17,4 +17,4 @@ The works published here are just for showcase only. They are protected under th
 ## Portfolio (2022)
 App Name & Icon | Features | Screenshots | APK/Links
 --- | --- | --- | ---
-****Syncplay Android**** |<sub>**Language**: Kotlin (99%) <br>• Android 5 to Android 13 compatibility<br>• Uses Google's [ExoPlayer](https://github.com/google/ExoPlayer) for media playback<br>• Uses Google's [Gson](https://github.com/google/gson) for JSON (de)serialization<br>• Uses [Netty](https://netty.io/) for network backbone<br>• Architecture: MVVM</sub>| <img src=".gif" width="46%"> <img src=".gif" width="46%">| [GitHub](https://github.com/Reddnek/syncplay-android)
+****Syncplay Android**** |<sub>**Language**: Kotlin (99%)<br>**Architecture**: MVVM <br>**Most Notable Libraries:<br>• Android 5 to Android 13 compatibility<br>• Uses Google's [ExoPlayer](https://github.com/google/ExoPlayer) for media playback<br>• Uses Google's [Gson](https://github.com/google/gson) for JSON (de)serialization<br>• Uses [Netty](https://netty.io/) for network backbone</sub>| <img src=".gif" width="46%"> <img src=".gif" width="46%">| [GitHub](https://github.com/Reddnek/syncplay-android)
