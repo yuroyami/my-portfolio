@@ -1,5 +1,5 @@
 # My Portfolio
-A portfolio of my recent works (Whose owners are fine by including them publicly) starting by 2022 (as older works do not really support older Android versions).
+A portfolio of my recent works (Whose owners are fine by including them publicly) starting by 2022 (as older works do not really support the newest Android versions).
 - My motto is: Compatibility, Stability, Efficiency, and Creativity.
 
 ## NOTE:
