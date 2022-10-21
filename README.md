@@ -9,7 +9,7 @@ The works published here are just for showcase only. They are protected under th
 - I have 6 years of experience (Since 2016) in Android App development.
 - I master the following languages: Java - Kotlin - Python - JavaScript - C - ObjectiveC - C# - C++ - Ruby - Lua - vJASS
 - I am currently learning the following languages: Carbon - GodotScript - Assembly
-- I have solo-developed •75• apps, co-developed almost a hundred, and almost built a hundred libraries so far.
+- I have solo-developed •75• apps, co-developed and enhanced almost a hundred, and build/fixed/enhanced countless libraries so far.
 - Coding is not a challenge. Programming languages are just like normal languages, you're just talking to the machine.
 - Other Skills: 3D Design - 2D Design - Software and System Engineering - Hardware Engineering - Music Composition
 
