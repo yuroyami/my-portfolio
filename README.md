@@ -3,7 +3,7 @@ A portfolio of my recent works (Whose owners are fine by including them publicly
 - My motto is: Compatibility, Stability, Efficiency, and Creativity.
 
 ## NOTE:
-The works published here are only for showcase only. They are protected under their own respective licenses and therefore, the owners will be notified with any illegal use.
+The works published here are just for showcase only. They are protected under their own respective licenses and therefore, the owners will be notified and go after any illegal use.
 
 ## Little Background:
 - I am a 25 year old developer who graduated from Algiers' Superior School of Informatics and Computer Science. I currently study Dentistry as my second degree, and do Freelancing online as a hustle.
@@ -12,5 +12,6 @@ The works published here are only for showcase only. They are protected under th
 - I am currently learning the following languages: Carbon - GodotScript - Assembly
 - I have solo-developed •75• apps, co-developed almost a hundred, and almost built a hundred libraries so far.
 - Coding is not a challenge. Programming languages are just like normal languages, you're just talking to the machine.
-
+- Other Skills: 3D Design - 2D Design - Software and System Engineering - Hardware Engineering - Music Composition
+- 
 ## Portfolio (2022)
