@@ -1,6 +1,5 @@
 # My Portfolio (WIP)
-A portfolio of my recent works (Whose owners are fine by including them publicly) starting by 2022 (as older works do not really support the newest Android versions).
-- My motto is: Compatibility, Stability, Efficiency, and Creativity.
+A portfolio of my recent works (Whose owners are fine with including them publicly) starting by 2022 (as older works do not really support the newest Android versions). I always follow the motto of: Compatibility, Stability, Efficiency, and Creativity.
 
 ## NOTE:
 The works published here are just for showcase only. They are protected under their own respective licenses and therefore, the owners will be notified and go after any illegal use.
