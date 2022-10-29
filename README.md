@@ -1,6 +1,6 @@
 # My Portfolio (WIP)
 A portfolio of my recent works in Native Android App Development using Java, Kotlin or both. <br>
-**Note**: The owners of these projects have given publicity permission, but not usage or concept. All rights, including the concept, remain reserved.
+**Note**: The owners of these projects have given publicity permission, but not usage or concept. All rights, including the concept, remain reserved.<br>
 **Note 2**: Projects that do not have a review, are either open-source, or belong to a local company.
 
 App Name & Icon | Features | ــــــــــــــــScreenshotsـــــــــــــــ | APK/Links
