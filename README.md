@@ -1,5 +1,5 @@
 # My Portfolio (WIP)
-**Desc**:A portfolio of my recent works in Native Android App Development using Java, Kotlin or both. <br>
+A portfolio of my recent works in Native Android App Development using Java, Kotlin or both. <br>
 Owners of these projects have given publicity permission, but not usage or concept. All rights, including the concept, remain reserved.
 
 App Name & Icon | Features | ــــــــــــــــScreenshotsـــــــــــــــ | APK/Links
