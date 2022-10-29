@@ -1,6 +1,6 @@
 # My Portfolio (WIP)
-A portfolio of my recent works in Native Android App Development (Whose owners are fine with including them publicly) starting by 2022 (as older works do not really support the newest Android versions). I always follow the motto of: Compatibility, Stability, Efficiency, and Creativity.
-<br><sub>**NOTE:** The works published here are just for showcase only. They are protected under their own respective licenses and therefore, the owners will be notified and go after any illegal use.</sub>
+**Desc**:A portfolio of my recent works in Native Android App Development using Java, Kotlin or both. <br>
+Owners of these projects have given publicity permission, but not usage or concept. All rights, including the concept, remain reserved.
 
 App Name & Icon | Features | ــــــــــــــــScreenshotsـــــــــــــــ | APK/Links
 :-: | --- | :-----: | :-:
