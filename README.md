@@ -1,4 +1,4 @@
-# My Portfolio (WIP)
+# My Portfolio (Non-exhaustive, Work-in-progress)
 A portfolio of my recent works in Native Android App Development using Java, Kotlin or both. <br>
 **Note**: The owners of these projects have given publicity permission, but not usage or concept. All rights, including the concept, remain reserved.<br>
 **Note 2**: Projects that do not have a review, are either open-source, or belong to a local company.
@@ -11,14 +11,10 @@ App Name & Icon | Features | ــــــــــــــــScreenshotsــــ
 ****Sirona Heartlink****<br><br><img title="Sirona Heartlink" src="https://github.com/Reddnek/my-portfolio/blob/main/art/sironaheartlink/logosirona.png?raw=true" width="140"> |<sub>**Language**: Java & Kotlin (90%/10%)<br>**Architecture**: MVI<br>**Client's review**:<br><img src="https://github.com/Reddnek/my-portfolio/blob/main/art/reviews/review-sirona.png?raw=true" width="400"><br>**Most Notable Features**:<br>• Uses [Okhttp](https://square.github.io/okhttp/) for HTTP requests<br>• Uses [Activity Aliases](https://developer.android.com/guide/topics/manifest/activity-alias-element) to substitute for manual flavor changement.<br>**Job Description**: Client is a Medical Bluetooth Accessory Manufacturer.<br>Their devices ship to dozens of clients, therefore, they used Gradle's product flavors to switch between different app versions for each of their clients under different brands. However, it was a heavy and tough task to do on each app release. Therefore, they wanted to dynamically brandtheir app via JSON HTTP requests from a remote server In this context, activity aliases (unbeknownst to many devs) come in handy, they change the full appearance of the app icon and name, and also how the app launches (see screenshots).</sub> | <img src="https://github.com/Reddnek/my-portfolio/blob/main/art/sironaheartlink/sirona1.png?raw=true" width="70"><img src="https://github.com/Reddnek/my-portfolio/blob/main/art/sironaheartlink/sirona2.png?raw=true" width="70"><br><img src="https://github.com/Reddnek/my-portfolio/blob/main/art/sironaheartlink/sirona5.png" width="500">| -
 
 ## Background:
-- Graduated from ASSICS (Algiers' Superior School of Informatics and Computer Science). I currently study Dentistry as my second degree, and practice Freelancing  as a hustle.
-- I have **6 years** of experience (since 2016) in Android App development.
-- **_I master the following languages_**: Java, Kotlin, Python, JavaScript, C, Objective-C, C#, C++, Ruby, Lua, vJASS
-- _I am currently learning the following languages_: Carbon - GodotScript - Assembly
+- Graduated from ESI (Algiers' Superior School of Informatics and Computer Science). I currently study Dentistry as my second degree, and practice Freelancing  as a hustle.
+- I have **6 years** of experience (since 2016) in Android App development, and **_I master the following languages_**: Java, Kotlin, Python, JavaScript, Swift, Objective-C, C, C#, C++, Carbon, Ruby, Lua, a bit of Assembly.
 - I have solo-developed **•75•** apps, co-developed and enhanced almost a hundred, and build/fixed/enhanced countless libraries so far.
-- Coding _**is not**_ a challenge. Programming languages are just like normal languages, you're just talking to the machine.
-- **Other Skills**: 3D Design - 2D Design - Software and System Engineering - Hardware Engineering - Music Composition
-
+- **Other Skills worth mentioning**: 3D Design - 2D Design - Software and System Engineering - Hardware Engineering
 
 ## Usage of this portfolio as a template: 
-Feel free to use this portfolio as a template as long as you mention the original (this one).
+Feel free to use this portfolio as a template, it's not like it took me more than 5 minutes anyway
